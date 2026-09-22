@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: jekyll-whiteglass
 plugins:
   - jekyll-feed
+  - jektex
 
 jekyll-archives:
   enabled:
