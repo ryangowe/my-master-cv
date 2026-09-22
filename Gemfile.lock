@@ -75,6 +75,8 @@ GEM
       webrick (~> 1.7)
     jekyll-archives (2.3.0)
       jekyll (>= 3.6, < 5.0)
+    jekyll-compose (0.12.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.17.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
@@ -171,6 +173,7 @@ PLATFORMS
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 4.4.1)
+  jekyll-compose (~> 0.12)
   jekyll-feed (~> 0.12)
   jekyll-whiteglass (~> 1.11)
   tzinfo (>= 1, < 3)
@@ -212,6 +215,7 @@ CHECKSUMS
   i18n (1.15.2) sha256=00f9eb62412fe593b2a65a97daa75300d37abb8f7202ec748e94b6d46a9dd1b5
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
   jekyll-archives (2.3.0) sha256=2dbd8ce22212fbace81fe2c9aa4152a6e21c748bcc626f135af5acfd813375f6
+  jekyll-compose (0.12.0) sha256=0478638a921c5795b1e5b1ffdc769f3c405682e239b1de0117bde60af4edc8db
   jekyll-feed (0.17.0) sha256=689aab16c877949bb9e7a5c436de6278318a51ecb974792232fd94d8b3acfcc3
   jekyll-paginate (1.1.0) sha256=880aadf4b02529a93541d508c5cbb744f014cbfc071d0263a31f25ec9066eb64
   jekyll-sass-converter (3.1.0) sha256=83925d84f1d134410c11d0c6643b0093e82e3a3cf127e90757a85294a3862443
