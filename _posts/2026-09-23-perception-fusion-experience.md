@@ -62,7 +62,7 @@ date: 2026-09-23 13:25 +0800
 - 一定在非盲区的 grid: 每帧清空历史，填入新的检测
 - 可能盲区的 grid: 在离开非盲区前的最后 N 帧都有检测，则保留最后的历史检测
 
-![参考图](/assets/images/freespace-memory.svg)
+![[freespace-memory.svg]]
 
 # 面向 HMI 的可视化
 

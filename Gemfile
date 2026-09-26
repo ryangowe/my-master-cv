@@ -17,6 +17,8 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-compose", "~> 0.12"
   gem "jektex", "~> 0.2"
+  gem "jekyll-wikirefs", "~> 0.0.16"
+  gem "jekyll-github-metadata"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
